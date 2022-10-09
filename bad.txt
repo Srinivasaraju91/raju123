@@ -1,2 +1,2 @@
 #!/ssh bin/bash 
-awk pwd "{111}"
+#!bin/bash
