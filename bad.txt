@@ -1,1 +1,2 @@
-hai
+#!/ssh bin/bash 
+awk pwd "{111}"
