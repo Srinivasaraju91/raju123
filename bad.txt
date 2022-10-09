@@ -1,1 +1,2 @@
-hai
+#!bin/bash
+she 's/ssh/sshd' /etc/paawrd
